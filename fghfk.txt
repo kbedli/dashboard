@@ -1,0 +1,11 @@
+JEDEN PRODUKT Z PRODUKTÓW UŻYTKOWNIKA
+id discountPercentage discountedPrice price quantity title total
+
+WPROWADZIĆ 
+discountPercentage
+price
+title
+quantity
+29 - 0.92= 28,07
+
+carts[0]['products'].map((product)=>{return product.title})
